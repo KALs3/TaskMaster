@@ -9,7 +9,8 @@ import rainSound from './sounds/rain.wav';
 import fireSound from './sounds/fire.mp3';
 import natureSound from './sounds/nature.mp3';
 import HabitTracker from './components/HabitTracker ';
-
+import taskFinishSound from './sounds/task-finsh.wav';
+import breakFinishSound from './sounds/break-finsh.wav';
 function App() {
 
   // pomodoro state 
